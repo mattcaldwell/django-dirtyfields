@@ -4,7 +4,7 @@ A model mixin to keep track of changed fields in a model.
 """
 __version_info__ = {
     'major': 0,
-    'minor': 3,
+    'minor': 5,
     'micro': 0,
     'releaselevel': 'beta',
     'serial': 1

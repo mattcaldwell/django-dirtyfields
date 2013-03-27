@@ -6,7 +6,7 @@ def listify(filename):
 
 
 setup(
-    name="django-dirtyfields",
+    name="caldwell-dirtyfields",
     version=__import__('dirtyfields').get_version().replace(' ', '-'),
     url='http://github.com/smn/django-dirtyfields',
     license='BSD',
